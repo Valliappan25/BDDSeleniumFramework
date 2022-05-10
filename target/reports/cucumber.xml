@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="0.427">
+    <testcase classname="Search and Place order for Products." name="Search Experience for Products in both product and offer page"/>
+    <testcase classname="Search and Place order for Products." name="Search Experience for Products in both product and offer page 2"/>
+    <testcase classname="Search and Place order for Products." name="Search Experience for Products in both product and offer page"/>
+    <testcase classname="Search and Place order for Products." name="Search Experience for Products in both product and offer page 2"/>
+</testsuite>
